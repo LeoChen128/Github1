@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Leo Chen");
-        System.out.println("My favorite food is: mangosteen.");
+        System.out.println("My favorite food is mangosteen.");
     }
 }
